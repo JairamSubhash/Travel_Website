@@ -1,9 +1,5 @@
 # Travel Website
-
-
-This project aims to predict heart disease in patients based on clinical parameters and medical data. By analyzing a dataset comprising various health metrics, we built a machine learning model achieving an accuracy rate of 88.5%. Early detection is crucial in mitigating heart disease risks, and our model contributes to improving diagnostic efficiency.
-
-This project a responsive travel website that covers both frontend and backend development using technologies - HTML, CSS, vanilla JavaScript, PHP, and MySQL database.
+This project is a responsive travel website that covers both frontend and backend development using technologies - HTML, CSS, vanilla JavaScript, PHP, and MySQL database.
 
 Features:
 
